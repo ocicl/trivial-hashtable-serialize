@@ -1,0 +1,10 @@
+* trivial-hashtable-serialize
+
+
+
+|---------+-------------------------------------------|
+| source  | git:https://gitlab.com/ediethelm/trivial-hashtable-serialize.git   |
+| commit  | {"messa  |
+| systems | trivial-hashtable-serialize |
+|---------+-------------------------------------------|
+
