@@ -3,8 +3,9 @@
 A Common Lisp library that allows for simple serialization and
 deserialization of hash-tables.
 
+
 |---------+------------------------------------------------------------------|
 | source  | git:https://gitlab.com/ediethelm/trivial-hashtable-serialize.git |
-| commit  | 181c47                                                           |
+| commit  | 181c472                                                          |
 | systems | trivial-hashtable-serialize                                      |
 |---------+------------------------------------------------------------------|
